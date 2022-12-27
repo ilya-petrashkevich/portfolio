@@ -1,0 +1,28 @@
+.project {
+    width: 400px;
+}
+.projectImgContainer {
+    height: 300px;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.showBtn {
+    width: 100px;
+    height: 40px;
+    background-color: #757575;
+}
+.projectInfo {
+    padding: 10px;
+    height: 100px;
+    background-color: #eeeef5;
+}
+.title {
+    background-color: lightgray;
+}
+.description {
+    background-color: lightgray;
+    height: 50%;
+}
